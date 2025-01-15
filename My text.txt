@@ -1,1 +1,1 @@
-The second version of my Git repository test.
+The 3rd version of my Git repository test.
