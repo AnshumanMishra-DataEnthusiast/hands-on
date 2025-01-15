@@ -1,1 +1,2 @@
 The 3rd version of my Git repository test. Changing through GitHub
+Modified to check diff.
